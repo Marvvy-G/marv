@@ -1,3 +1,3 @@
 # marv
 HNG internship
-This github report is for HNG internship 
+This github repository is for HNG internship 
